@@ -14,8 +14,6 @@ bin/
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
-strategy-mac-amd64
-strategy-win-amd64.exe
 *.png
 *.csv
 *.pprof
