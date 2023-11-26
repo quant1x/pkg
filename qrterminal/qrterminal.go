@@ -4,7 +4,7 @@ import (
 	"io"
 	"strings"
 
-	"rsc.io/qr"
+	"gitee.com/quant1x/pkg/qr"
 )
 
 const WHITE = "\033[47m  \033[0m"
