@@ -4,6 +4,13 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.1.1] - 2023-11-27
+### Changed
+- 新增: rsc.io/qr v0.2.0.
+- 新增: github.com/mdp/qrterminal.
+- 新增: github.com/gocarina/gocsv v0.0.0-20231116093920-b87c2d0e983a.
+- 新增Changelog.
+
 ## [0.1.0] - 2023-11-18
 
 ### Changed
@@ -19,6 +26,7 @@ All notable changes to this project will be documented in this file.
 - Add LICENSE.
 - Initial commit.
 
-[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.1.0...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.1.1...HEAD
 
+[0.1.1]: https://gitee.com/quant1x/pkg/compare/v0.1.0...v0.1.1
 [0.1.0]: https://gitee.com/quant1x/pkg/releases/tag/v0.1.0
