@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.1.3] - 2023-12-05
+### Changed
+- 新增: github.com/dop251/goja v0.0.0-20231027120936-b396bb4c349d.
+- 新增: github.com/dop251/goja_nodejs v0.0.0-20211022123610-8dd9abb0616d.
+
 ## [0.1.2] - 2023-12-03
 ### Changed
 - 新增: gopkg.in/yaml.v3 v3.0.1.
@@ -31,8 +36,9 @@ All notable changes to this project will be documented in this file.
 - Add LICENSE.
 - Initial commit.
 
-[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.1.2...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.1.3...HEAD
 
+[0.1.3]: https://gitee.com/quant1x/pkg/compare/v0.1.2...v0.1.3
 [0.1.2]: https://gitee.com/quant1x/pkg/compare/v0.1.1...v0.1.2
 [0.1.1]: https://gitee.com/quant1x/pkg/compare/v0.1.0...v0.1.1
 [0.1.0]: https://gitee.com/quant1x/pkg/releases/tag/v0.1.0
