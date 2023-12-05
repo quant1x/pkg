@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.1.4] - 2023-12-05
+### Changed
+- 更新依赖库版本.
+
 ## [0.1.3] - 2023-12-05
 ### Changed
 - 新增: github.com/dop251/goja v0.0.0-20231027120936-b396bb4c349d.
@@ -36,8 +40,9 @@ All notable changes to this project will be documented in this file.
 - Add LICENSE.
 - Initial commit.
 
-[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.1.3...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.1.4...HEAD
 
+[0.1.4]: https://gitee.com/quant1x/pkg/compare/v0.1.3...v0.1.4
 [0.1.3]: https://gitee.com/quant1x/pkg/compare/v0.1.2...v0.1.3
 [0.1.2]: https://gitee.com/quant1x/pkg/compare/v0.1.1...v0.1.2
 [0.1.1]: https://gitee.com/quant1x/pkg/compare/v0.1.0...v0.1.1
