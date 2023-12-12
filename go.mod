@@ -1,6 +1,6 @@
 module gitee.com/quant1x/pkg
 
-go 1.21.1
+go 1.21.5
 
 require (
 	github.com/dlclark/regexp2 v1.10.0
