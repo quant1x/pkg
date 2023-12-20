@@ -19,6 +19,7 @@ import (
 	"encoding"
 	"encoding/base64"
 	"fmt"
+	"gitee.com/quant1x/pkg/defaults"
 	"io"
 	"math"
 	"reflect"
@@ -726,6 +727,13 @@ func settableValueOf(i interface{}) reflect.Value {
 	return sv
 }
 
+// quant1x: 根据类型和默认值创建一个新的对象
+func defaultFromType(typ reflect.Type) reflect.Value {
+	ptrValue := reflect.New(typ)
+	_ = defaults.Set(ptrValue.Interface())
+	return ptrValue.Elem()
+}
+
 func (d *decoder) sequence(n *Node, out reflect.Value) (good bool) {
 	l := len(n.Content)
 
@@ -749,7 +757,7 @@ func (d *decoder) sequence(n *Node, out reflect.Value) (good bool) {
 
 	j := 0
 	for i := 0; i < l; i++ {
-		e := reflect.New(et).Elem()
+		e := defaultFromType(et)
 		if ok := d.unmarshal(n.Content[i], e); ok {
 			out.Index(j).Set(e)
 			j++
@@ -844,7 +852,7 @@ func (d *decoder) mapping(n *Node, out reflect.Value) (good bool) {
 			if kkind == reflect.Map || kkind == reflect.Slice {
 				failf("invalid map key: %#v", k.Interface())
 			}
-			e := reflect.New(et).Elem()
+			e := defaultFromType(et)
 			if d.unmarshal(n.Content[i+1], e) || n.Content[i+1].ShortTag() == nullTag && (mapIsNew || !out.MapIndex(k).IsValid()) {
 				out.SetMapIndex(k, e)
 			}

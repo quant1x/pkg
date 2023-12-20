@@ -23,6 +23,7 @@ package yaml
 import (
 	"errors"
 	"fmt"
+	"gitee.com/quant1x/pkg/defaults"
 	"io"
 	"reflect"
 	"strings"
@@ -158,6 +159,8 @@ func unmarshal(in []byte, out interface{}, strict bool) (err error) {
 	defer p.destroy()
 	node := p.parse()
 	if node != nil {
+		// 设置默认值
+		_ = defaults.Set(out)
 		v := reflect.ValueOf(out)
 		if v.Kind() == reflect.Ptr && !v.IsNil() {
 			v = v.Elem()
