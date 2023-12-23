@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.1.7] - 2023-12-23
+### Changed
+- 更新依赖库.
+- 新增: github.com/stretchr/testify v1.8.4.
+- 新增: github.com/stretchr/objx v0.5.1.
+
 ## [0.1.6] - 2023-12-21
 ### Changed
 - Yaml增加设置默认值.
@@ -49,8 +55,9 @@ All notable changes to this project will be documented in this file.
 - Add LICENSE.
 - Initial commit.
 
-[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.1.6...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.1.7...HEAD
 
+[0.1.7]: https://gitee.com/quant1x/pkg/compare/v0.1.6...v0.1.7
 [0.1.6]: https://gitee.com/quant1x/pkg/compare/v0.1.5...v0.1.6
 [0.1.5]: https://gitee.com/quant1x/pkg/compare/v0.1.4...v0.1.5
 [0.1.4]: https://gitee.com/quant1x/pkg/compare/v0.1.3...v0.1.4
