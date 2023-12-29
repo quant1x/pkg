@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.1.8] - 2023-12-29
+### Changed
+- 新增: github.com/nxadm/tail v1.4.11.
+
 ## [0.1.7] - 2023-12-23
 ### Changed
 - 更新依赖库.
@@ -55,8 +59,9 @@ All notable changes to this project will be documented in this file.
 - Add LICENSE.
 - Initial commit.
 
-[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.1.7...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.1.8...HEAD
 
+[0.1.8]: https://gitee.com/quant1x/pkg/compare/v0.1.7...v0.1.8
 [0.1.7]: https://gitee.com/quant1x/pkg/compare/v0.1.6...v0.1.7
 [0.1.6]: https://gitee.com/quant1x/pkg/compare/v0.1.5...v0.1.6
 [0.1.5]: https://gitee.com/quant1x/pkg/compare/v0.1.4...v0.1.5
