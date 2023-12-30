@@ -4,6 +4,11 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.2.0] - 2023-12-31
+### Changed
+- 增加用于检测go-disruptor新版本的测试代码.
+- 新增: github.com/smartystreets-prototypes/go-disruptor v0.0.0-20231024205940-61200af675a1.
+
 ## [0.1.9] - 2023-12-31
 ### Changed
 - 更新依赖库版本.
@@ -66,8 +71,9 @@ All notable changes to this project will be documented in this file.
 - Add LICENSE.
 - Initial commit.
 
-[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.1.9...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.2.0...HEAD
 
+[0.2.0]: https://gitee.com/quant1x/pkg/compare/v0.1.9...v0.2.0
 [0.1.9]: https://gitee.com/quant1x/pkg/compare/v0.1.8...v0.1.9
 [0.1.8]: https://gitee.com/quant1x/pkg/compare/v0.1.7...v0.1.8
 [0.1.7]: https://gitee.com/quant1x/pkg/compare/v0.1.6...v0.1.7
