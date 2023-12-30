@@ -4,6 +4,12 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.2.2] - 2023-12-31
+### Changed
+- 新增: gopkg.in/ini.v1 v1.67.0.
+- 新增: gopkg.in/ini.v1 v1.67.0.
+- 修复fastjson对原仓库地址的依赖.
+
 ## [0.2.1] - 2023-12-31
 ### Changed
 - Value对象新增GetString方法.
@@ -75,8 +81,9 @@ All notable changes to this project will be documented in this file.
 - Add LICENSE.
 - Initial commit.
 
-[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.2.1...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.2.2...HEAD
 
+[0.2.2]: https://gitee.com/quant1x/pkg/compare/v0.2.1...v0.2.2
 [0.2.1]: https://gitee.com/quant1x/pkg/compare/v0.2.0...v0.2.1
 [0.2.0]: https://gitee.com/quant1x/pkg/compare/v0.1.9...v0.2.0
 [0.1.9]: https://gitee.com/quant1x/pkg/compare/v0.1.8...v0.1.9
