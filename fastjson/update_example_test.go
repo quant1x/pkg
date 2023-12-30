@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/valyala/fastjson"
+	"gitee.com/quant1x/pkg/fastjson"
 )
 
 func ExampleObject_Del() {

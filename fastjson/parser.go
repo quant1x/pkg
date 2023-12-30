@@ -2,7 +2,7 @@ package fastjson
 
 import (
 	"fmt"
-	"github.com/valyala/fastjson/fastfloat"
+	"gitee.com/quant1x/pkg/fastjson/fastfloat"
 	"strconv"
 	"strings"
 	"unicode/utf16"

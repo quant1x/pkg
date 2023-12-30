@@ -2,7 +2,7 @@ package fastjson_test
 
 import (
 	"fmt"
-	"github.com/valyala/fastjson"
+	"gitee.com/quant1x/pkg/fastjson"
 	"log"
 )
 
