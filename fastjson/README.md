@@ -5,6 +5,7 @@
 
 # fastjson - fast JSON parser and validator for Go
 
+
 ## Features
 
 * Fast. As usual, up to 15x faster than the standard [encoding/json](https://golang.org/pkg/encoding/json/).
@@ -24,6 +25,7 @@
 * `fastjson` preserves the original order of object items when calling
   [Object.Visit](https://godoc.org/github.com/valyala/fastjson#Object.Visit).
 
+
 ## Known limitations
 
 * Requies extra care to work with - references to certain objects recursively
@@ -35,10 +37,10 @@
 * Cannot parse JSON from `io.Reader`. There is [Scanner](https://godoc.org/github.com/valyala/fastjson#Scanner)
   for parsing stream of JSON values from a string.
 
+
 ## Usage
 
 One-liner accessing a single field:
-
 ```go
     s := []byte(`{"foo": [123, "bar"]}`)
 fmt.Printf("foo.0=%d\n", fastjson.GetInt(s, "foo", "0"))
@@ -48,7 +50,6 @@ fmt.Printf("foo.0=%d\n", fastjson.GetInt(s, "foo", "0"))
 ```
 
 Accessing multiple fields with error handling:
-
 ```go
         var p fastjson.Parser
 v, err := p.Parse(`{
@@ -77,6 +78,7 @@ fmt.Printf("arr.1=%s\n", v.GetStringBytes("arr", "1"))
 
 See also [examples](https://godoc.org/github.com/valyala/fastjson#pkg-examples).
 
+
 ## Security
 
 * `fastjson` shouldn't crash or panic when parsing input strings specially crafted
@@ -84,6 +86,7 @@ See also [examples](https://godoc.org/github.com/valyala/fastjson#pkg-examples).
 * `fastjson` requires up to `sizeof(Value) * len(inputJSON)` bytes of memory
   for parsing `inputJSON` string. Limit the maximum size of the `inputJSON`
   before parsing it in order to limit the maximum memory usage.
+
 
 ## Performance optimization tips
 
@@ -102,7 +105,6 @@ See also [examples](https://godoc.org/github.com/valyala/fastjson#pkg-examples).
   with a range loop instead of calling `Value.Get*` for each array item.
 
 ## Fuzzing
-
 Install [go-fuzz](https://github.com/dvyukov/go-fuzz) & optionally the go-fuzz-corpus.
 
 ```bash
