@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.2.3] - 2024-01-02
+### Changed
+- 新增: github.com/satori/go.uuid v1.2.0.
+
 ## [0.2.2] - 2023-12-31
 ### Changed
 - 新增: gopkg.in/ini.v1 v1.67.0.
@@ -81,8 +85,9 @@ All notable changes to this project will be documented in this file.
 - Add LICENSE.
 - Initial commit.
 
-[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.2.2...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.2.3...HEAD
 
+[0.2.3]: https://gitee.com/quant1x/pkg/compare/v0.2.2...v0.2.3
 [0.2.2]: https://gitee.com/quant1x/pkg/compare/v0.2.1...v0.2.2
 [0.2.1]: https://gitee.com/quant1x/pkg/compare/v0.2.0...v0.2.1
 [0.2.0]: https://gitee.com/quant1x/pkg/compare/v0.1.9...v0.2.0
