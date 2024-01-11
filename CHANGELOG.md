@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.2.5] - 2024-01-11
+### Changed
+- 清理多余的文件.
+
 ## [0.2.4] - 2024-01-11
 ### Changed
 - 修订csv读取到科学计数法时不能解析的bug.
@@ -89,8 +93,9 @@ All notable changes to this project will be documented in this file.
 - Add LICENSE.
 - Initial commit.
 
-[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.2.4...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.2.5...HEAD
 
+[0.2.5]: https://gitee.com/quant1x/pkg/compare/v0.2.4...v0.2.5
 [0.2.4]: https://gitee.com/quant1x/pkg/compare/v0.2.3...v0.2.4
 [0.2.3]: https://gitee.com/quant1x/pkg/compare/v0.2.2...v0.2.3
 [0.2.2]: https://gitee.com/quant1x/pkg/compare/v0.2.1...v0.2.2
