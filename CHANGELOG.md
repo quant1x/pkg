@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.2.4] - 2024-01-11
+### Changed
+- 修订csv读取到科学计数法时不能解析的bug.
+
 ## [0.2.3] - 2024-01-02
 ### Changed
 - 新增: github.com/satori/go.uuid v1.2.0.
@@ -85,8 +89,9 @@ All notable changes to this project will be documented in this file.
 - Add LICENSE.
 - Initial commit.
 
-[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.2.3...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.2.4...HEAD
 
+[0.2.4]: https://gitee.com/quant1x/pkg/compare/v0.2.3...v0.2.4
 [0.2.3]: https://gitee.com/quant1x/pkg/compare/v0.2.2...v0.2.3
 [0.2.2]: https://gitee.com/quant1x/pkg/compare/v0.2.1...v0.2.2
 [0.2.1]: https://gitee.com/quant1x/pkg/compare/v0.2.0...v0.2.1
