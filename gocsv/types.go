@@ -129,8 +129,16 @@ func toInt(in interface{}) (int64, error) {
 		if s == "" {
 			return 0, nil
 		}
-		out := strings.SplitN(s, ".", 2)
+		out := strings.Split(s, ".")
+		if len(out) == 2 {
+			f, err := strconv.ParseFloat(s, 64)
+			if err == nil {
+				// 解析成功, 强制转换成int64
+				return int64(f), nil
+			}
+		}
 		return strconv.ParseInt(out[0], 0, 64)
+
 	case reflect.Bool:
 		if inValue.Bool() {
 			return 1, nil

@@ -127,7 +127,9 @@ func TestToInt(t *testing.T) {
 		{"123", 123, nil},
 		{"1.2.3", 1, nil},
 		{"0.123", 0, nil},
+		{"5.25051E+07", 52505100, nil},
 	}
+	//v := 5.25051e+07
 
 	for idx, item := range TestCase {
 		out, err := toInt(item.field)
