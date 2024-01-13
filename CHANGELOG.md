@@ -4,6 +4,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.2.6] - 2024-01-13
+### Changed
+- 更新依赖库版本.
+
 ## [0.2.5] - 2024-01-11
 ### Changed
 - 清理多余的文件.
@@ -93,8 +97,9 @@ All notable changes to this project will be documented in this file.
 - Add LICENSE.
 - Initial commit.
 
-[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.2.5...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg/compare/v0.2.6...HEAD
 
+[0.2.6]: https://gitee.com/quant1x/pkg/compare/v0.2.5...v0.2.6
 [0.2.5]: https://gitee.com/quant1x/pkg/compare/v0.2.4...v0.2.5
 [0.2.4]: https://gitee.com/quant1x/pkg/compare/v0.2.3...v0.2.4
 [0.2.3]: https://gitee.com/quant1x/pkg/compare/v0.2.2...v0.2.3
