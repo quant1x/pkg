@@ -3,6 +3,12 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.2.10] - 2024-07-05
+### Changed
+- 更新依赖库版本
+- 更新依赖库版本
+- 优化csv解码
+
 ## [0.2.9] - 2024-06-14
 ### Changed
 - 更新依赖库版本
@@ -10,6 +16,7 @@ All notable changes to this project will be documented in this file.
 ## [0.2.8] - 2024-05-11
 ### Changed
 - 更新依赖库版本
+- update changelog
 - update changelog
 
 ## [0.2.7] - 2024-03-17
@@ -127,7 +134,8 @@ Signed-off-by: 王布衣 <wangfengxy@sina.cn>
 - 更新依赖库
 
 
-[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.2.9...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.2.10...HEAD
+[0.2.10]: https://gitee.com/quant1x/pkg.git/compare/v0.2.9...v0.2.10
 [0.2.9]: https://gitee.com/quant1x/pkg.git/compare/v0.2.8...v0.2.9
 [0.2.8]: https://gitee.com/quant1x/pkg.git/compare/v0.2.7...v0.2.8
 [0.2.7]: https://gitee.com/quant1x/pkg.git/compare/v0.2.6...v0.2.7
