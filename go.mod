@@ -7,7 +7,7 @@ require (
 	github.com/dlclark/regexp2 v1.11.0
 	github.com/fsnotify/fsnotify v1.7.0
 	github.com/go-sourcemap/sourcemap v2.1.4+incompatible
-	github.com/google/pprof v0.0.0-20240528025155-186aa0362fba
+	github.com/google/pprof v0.0.0-20240625030939-27f56978b8b0
 	github.com/pmezard/go-difflib v1.0.0
 	github.com/rivo/uniseg v0.4.7
 	golang.org/x/text v0.16.0
