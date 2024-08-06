@@ -1,6 +1,6 @@
 module gitee.com/quant1x/pkg
 
-go 1.21.11
+go 1.21.12
 
 require (
 	github.com/davecgh/go-spew v1.1.1
