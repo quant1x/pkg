@@ -11,9 +11,9 @@ import (
 	"sync"
 	"time"
 
+	"gitee.com/quant1x/pkg/go-difflib/difflib"
+	"gitee.com/quant1x/pkg/go-spew/spew"
 	"gitee.com/quant1x/pkg/objx"
-	"github.com/davecgh/go-spew/spew"
-	"github.com/pmezard/go-difflib/difflib"
 
 	"gitee.com/quant1x/pkg/testify/assert"
 )
