@@ -3,22 +3,28 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.4.0] - 2024-08-06
+### Changed
+- merge 0.3.x
+
 ## [0.3.0] - 2024-08-06
 ### Changed
 - add: github.com/davecgh/go-spew v1.1.1
 - add: github.com/pmezard/go-difflib v1.0.0
 - 更新依赖库版本
+- update changelog
 
 ## [0.2.15] - 2024-08-06
 ### Changed
+- update changelog
+- update changelog
+- update changelog
 - 恢复chart包路径
-- update changelog
-- update changelog
-- update changelog
 
 ## [0.2.14] - 2024-08-06
 ### Changed
 - 调整chart包路径为plot
+- update changelog
 
 ## [0.2.13] - 2024-08-06
 ### Changed
@@ -172,7 +178,8 @@ Signed-off-by: 王布衣 <wangfengxy@sina.cn>
 - 更新依赖库
 
 
-[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.3.0...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.4.0...HEAD
+[0.4.0]: https://gitee.com/quant1x/pkg.git/compare/v0.3.0...v0.4.0
 [0.3.0]: https://gitee.com/quant1x/pkg.git/compare/v0.2.15...v0.3.0
 [0.2.15]: https://gitee.com/quant1x/pkg.git/compare/v0.2.14...v0.2.15
 [0.2.14]: https://gitee.com/quant1x/pkg.git/compare/v0.2.13...v0.2.14
