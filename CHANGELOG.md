@@ -3,13 +3,11 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-## [0.5.0] - 2024-08-06
-### Changed
-- 删除废弃的文件
-
-## [0.4.0] - 2024-08-06
+## [0.3.1] - 2024-08-06
 ### Changed
 - merge 0.3.x
+- update changelog
+- 删除废弃的文件
 - update changelog
 
 ## [0.3.0] - 2024-08-06
@@ -183,9 +181,8 @@ Signed-off-by: 王布衣 <wangfengxy@sina.cn>
 - 更新依赖库
 
 
-[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.5.0...HEAD
-[0.5.0]: https://gitee.com/quant1x/pkg.git/compare/v0.4.0...v0.5.0
-[0.4.0]: https://gitee.com/quant1x/pkg.git/compare/v0.3.0...v0.4.0
+[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.3.1...HEAD
+[0.3.1]: https://gitee.com/quant1x/pkg.git/compare/v0.3.0...v0.3.1
 [0.3.0]: https://gitee.com/quant1x/pkg.git/compare/v0.2.15...v0.3.0
 [0.2.15]: https://gitee.com/quant1x/pkg.git/compare/v0.2.14...v0.2.15
 [0.2.14]: https://gitee.com/quant1x/pkg.git/compare/v0.2.13...v0.2.14
