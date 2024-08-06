@@ -2,8 +2,6 @@ module gitee.com/quant1x/pkg
 
 go 1.21.11
 
-toolchain go1.21.12
-
 require (
 	github.com/davecgh/go-spew v1.1.1
 	github.com/dlclark/regexp2 v1.11.4
@@ -16,7 +14,6 @@ require (
 	golang.org/x/text v0.16.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
 	gopkg.in/tomb.v1 v1.0.0-20141024135613-dd632973f1e7
-	gopkg.in/yaml.v3 v3.0.1
 )
 
 require (
