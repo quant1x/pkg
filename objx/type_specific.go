@@ -171,7 +171,7 @@ func (v *Value) CollectMSI(collector func(int, map[string]interface{}) interface
 
 // ObjxMap gets the value as a (Map), returns the optionalDefault
 // value or a system default object if the value is the wrong type.
-func (v *Value) ObjxMap(optionalDefault ...Map) Map {
+func (v *Value) ObjxMap(optionalDefault ...(Map)) Map {
 	if s, ok := v.data.((Map)); ok {
 		return s
 	}
