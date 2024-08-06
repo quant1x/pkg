@@ -27,9 +27,9 @@ and hard-to-find bug in our users' code.
 
 We welcome pull requests! Please include the following in the description:
 
-* Motivation, why your change is important or helpful
-* Example usage (if applicable)
-* Whether you intend to add / change behavior or fix a bug
+  * Motivation, why your change is important or helpful
+  * Example usage (if applicable)
+  * Whether you intend to add / change behavior or fix a bug
 
 Please be aware that the maintainers may ask for changes. This isn't a commentary on the quality of
 your idea or your code. Testify is the result of many contributions from many individuals, so we
