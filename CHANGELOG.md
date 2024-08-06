@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.2.12] - 2024-08-06
+### Changed
+- 收敛yaml工具包的引用
+
 ## [0.2.11] - 2024-08-06
 ### Changed
 - add: github.com/wcharczuk/go-chart/v2 v2.1.1
@@ -16,6 +20,7 @@ All notable changes to this project will be documented in this file.
 - 更新依赖库版本
 - 更新依赖库版本
 - 优化csv解码
+- update changelog
 
 ## [0.2.9] - 2024-06-14
 ### Changed
@@ -143,7 +148,8 @@ Signed-off-by: 王布衣 <wangfengxy@sina.cn>
 - 更新依赖库
 
 
-[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.2.11...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.2.12...HEAD
+[0.2.12]: https://gitee.com/quant1x/pkg.git/compare/v0.2.11...v0.2.12
 [0.2.11]: https://gitee.com/quant1x/pkg.git/compare/v0.2.10...v0.2.11
 [0.2.10]: https://gitee.com/quant1x/pkg.git/compare/v0.2.9...v0.2.10
 [0.2.9]: https://gitee.com/quant1x/pkg.git/compare/v0.2.8...v0.2.9
