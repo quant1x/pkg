@@ -12,6 +12,7 @@ All notable changes to this project will be documented in this file.
 ## [0.2.15] - 2024-08-06
 ### Changed
 - 恢复chart包路径
+- update changelog
 
 ## [0.2.14] - 2024-08-06
 ### Changed
