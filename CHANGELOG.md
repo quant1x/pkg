@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.2.13] - 2024-08-06
+### Changed
+- 更新go sdk最低版本到1.21.12
+
 ## [0.2.12] - 2024-08-06
 ### Changed
 - 收敛yaml工具包的引用
@@ -14,6 +18,7 @@ All notable changes to this project will be documented in this file.
 - update: github.com/stretchr/objx v0.5.2
 - add: github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
 - 更新依赖库
+- update changelog
 
 ## [0.2.10] - 2024-07-05
 ### Changed
@@ -148,7 +153,8 @@ Signed-off-by: 王布衣 <wangfengxy@sina.cn>
 - 更新依赖库
 
 
-[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.2.12...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.2.13...HEAD
+[0.2.13]: https://gitee.com/quant1x/pkg.git/compare/v0.2.12...v0.2.13
 [0.2.12]: https://gitee.com/quant1x/pkg.git/compare/v0.2.11...v0.2.12
 [0.2.11]: https://gitee.com/quant1x/pkg.git/compare/v0.2.10...v0.2.11
 [0.2.10]: https://gitee.com/quant1x/pkg.git/compare/v0.2.9...v0.2.10
