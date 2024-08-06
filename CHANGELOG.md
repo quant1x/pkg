@@ -3,6 +3,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.2.15] - 2024-08-06
+### Changed
+- 恢复chart包路径
+
 ## [0.2.14] - 2024-08-06
 ### Changed
 - 调整chart包路径为plot
@@ -10,6 +14,7 @@ All notable changes to this project will be documented in this file.
 ## [0.2.13] - 2024-08-06
 ### Changed
 - 更新go sdk最低版本到1.21.12
+- update changelog
 
 ## [0.2.12] - 2024-08-06
 ### Changed
@@ -158,7 +163,8 @@ Signed-off-by: 王布衣 <wangfengxy@sina.cn>
 - 更新依赖库
 
 
-[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.2.14...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.2.15...HEAD
+[0.2.15]: https://gitee.com/quant1x/pkg.git/compare/v0.2.14...v0.2.15
 [0.2.14]: https://gitee.com/quant1x/pkg.git/compare/v0.2.13...v0.2.14
 [0.2.13]: https://gitee.com/quant1x/pkg.git/compare/v0.2.12...v0.2.13
 [0.2.12]: https://gitee.com/quant1x/pkg.git/compare/v0.2.11...v0.2.12
