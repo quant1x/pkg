@@ -3,11 +3,16 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.3.2] - 2025-02-15
+### Changed
+- 删除收录的github.com/stretchr/testify
+
 ## [0.3.1] - 2024-08-06
 ### Changed
 - merge 0.3.x
 - update changelog
 - 删除废弃的文件
+- update changelog
 - update changelog
 
 ## [0.3.0] - 2024-08-06
@@ -181,7 +186,8 @@ Signed-off-by: 王布衣 <wangfengxy@sina.cn>
 - 更新依赖库
 
 
-[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.3.1...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.3.2...HEAD
+[0.3.2]: https://gitee.com/quant1x/pkg.git/compare/v0.3.1...v0.3.2
 [0.3.1]: https://gitee.com/quant1x/pkg.git/compare/v0.3.0...v0.3.1
 [0.3.0]: https://gitee.com/quant1x/pkg.git/compare/v0.2.15...v0.3.0
 [0.2.15]: https://gitee.com/quant1x/pkg.git/compare/v0.2.14...v0.2.15
