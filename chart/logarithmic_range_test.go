@@ -2,7 +2,7 @@ package chart
 
 import (
 	//"github.com/blend/go-sdk/assert"
-	"gitee.com/quant1x/pkg/testify/assert"
+	"github.com/stretchr/testify/assert"
 	"testing"
 )
 

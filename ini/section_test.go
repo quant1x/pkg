@@ -17,8 +17,8 @@ package ini
 import (
 	"testing"
 
-	"gitee.com/quant1x/pkg/testify/assert"
-	"gitee.com/quant1x/pkg/testify/require"
+	"github.com/stretchr/testify/assert"
+	"github.com/stretchr/testify/require"
 )
 
 func TestSection_SetBody(t *testing.T) {

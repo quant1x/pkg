@@ -22,8 +22,8 @@ import (
 	"runtime"
 	"testing"
 
-	"gitee.com/quant1x/pkg/testify/assert"
-	"gitee.com/quant1x/pkg/testify/require"
+	"github.com/stretchr/testify/assert"
+	"github.com/stretchr/testify/require"
 )
 
 const (
