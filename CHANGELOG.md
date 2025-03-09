@@ -3,32 +3,22 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.5.0] - 2025-03-10
+### Changed
+- 更新依赖库版本
+
 ## [0.4.0] - 2025-02-15
 ### Changed
-- 删除测试代码
-
-## [0.3.6] - 2025-02-15
-### Changed
-- 增加测试代码
-
-## [0.3.5] - 2025-02-15
-### Changed
-- 删除废弃的测试代码
-- update changelog
-
-## [0.3.4] - 2025-02-15
-### Changed
-- 删除废弃的测试代码
-- update changelog
-
-## [0.3.3] - 2025-02-15
-### Changed
-- 删除废弃的测试代码
-- update changelog
-
-## [0.3.2] - 2025-02-15
-### Changed
 - 删除收录的github.com/stretchr/testify
+- 删除废弃的测试代码
+- update changelog
+- 删除废弃的测试代码
+- update changelog
+- 删除废弃的测试代码
+- update changelog
+- 增加测试代码
+- update changelog
+- 删除测试代码
 - update changelog
 
 ## [0.3.1] - 2024-08-06
@@ -211,13 +201,9 @@ Signed-off-by: 王布衣 <wangfengxy@sina.cn>
 - 更新依赖库
 
 
-[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.4.0...HEAD
-[0.4.0]: https://gitee.com/quant1x/pkg.git/compare/v0.3.6...v0.4.0
-[0.3.6]: https://gitee.com/quant1x/pkg.git/compare/v0.3.5...v0.3.6
-[0.3.5]: https://gitee.com/quant1x/pkg.git/compare/v0.3.4...v0.3.5
-[0.3.4]: https://gitee.com/quant1x/pkg.git/compare/v0.3.3...v0.3.4
-[0.3.3]: https://gitee.com/quant1x/pkg.git/compare/v0.3.2...v0.3.3
-[0.3.2]: https://gitee.com/quant1x/pkg.git/compare/v0.3.1...v0.3.2
+[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.5.0...HEAD
+[0.5.0]: https://gitee.com/quant1x/pkg.git/compare/v0.4.0...v0.5.0
+[0.4.0]: https://gitee.com/quant1x/pkg.git/compare/v0.3.1...v0.4.0
 [0.3.1]: https://gitee.com/quant1x/pkg.git/compare/v0.3.0...v0.3.1
 [0.3.0]: https://gitee.com/quant1x/pkg.git/compare/v0.2.15...v0.3.0
 [0.2.15]: https://gitee.com/quant1x/pkg.git/compare/v0.2.14...v0.2.15
