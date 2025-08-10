@@ -19,12 +19,13 @@ import (
 	"encoding"
 	"encoding/base64"
 	"fmt"
-	"gitee.com/quant1x/pkg/defaults"
 	"io"
 	"math"
 	"reflect"
 	"strconv"
 	"time"
+
+	"gitee.com/quant1x/pkg/defaults"
 )
 
 // ----------------------------------------------------------------------------

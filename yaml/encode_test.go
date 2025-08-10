@@ -18,11 +18,12 @@ package yaml_test
 import (
 	"bytes"
 	"fmt"
-	"gitee.com/quant1x/pkg/yaml"
 	"math"
 	"strconv"
 	"strings"
 	"time"
+
+	"gitee.com/quant1x/pkg/yaml"
 
 	"net"
 	"os"

@@ -2,8 +2,9 @@ package goja
 
 import (
 	"fmt"
-	"gitee.com/quant1x/pkg/goja/token"
 	"sort"
+
+	"gitee.com/quant1x/pkg/goja/token"
 
 	"gitee.com/quant1x/pkg/goja/ast"
 	"gitee.com/quant1x/pkg/goja/file"

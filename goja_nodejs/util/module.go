@@ -2,6 +2,7 @@ package util
 
 import (
 	"bytes"
+
 	"gitee.com/quant1x/pkg/goja"
 	"gitee.com/quant1x/pkg/goja_nodejs/require"
 )

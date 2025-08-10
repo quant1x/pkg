@@ -2,8 +2,9 @@ package fastjson_test
 
 import (
 	"fmt"
-	"gitee.com/quant1x/pkg/fastjson"
 	"log"
+
+	"gitee.com/quant1x/pkg/fastjson"
 )
 
 func ExampleScanner() {

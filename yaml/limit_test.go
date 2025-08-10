@@ -1,9 +1,10 @@
 package yaml_test
 
 import (
-	"gitee.com/quant1x/pkg/yaml"
 	"strings"
 	"testing"
+
+	"gitee.com/quant1x/pkg/yaml"
 
 	. "gopkg.in/check.v1"
 )

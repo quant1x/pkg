@@ -1,9 +1,10 @@
 package chart
 
 import (
+	"testing"
+
 	//"github.com/blend/go-sdk/assert"
 	"github.com/stretchr/testify/assert"
-	"testing"
 )
 
 func TestLogRangeTranslate(t *testing.T) {

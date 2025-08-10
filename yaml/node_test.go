@@ -18,12 +18,14 @@ package yaml_test
 import (
 	"bytes"
 	"fmt"
-	"gitee.com/quant1x/pkg/yaml"
 	"os"
 
-	. "gopkg.in/check.v1"
+	"gitee.com/quant1x/pkg/yaml"
+
 	"io"
 	"strings"
+
+	. "gopkg.in/check.v1"
 )
 
 var nodeTests = []struct {

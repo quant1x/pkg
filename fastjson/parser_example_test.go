@@ -2,9 +2,10 @@ package fastjson_test
 
 import (
 	"fmt"
-	"gitee.com/quant1x/pkg/fastjson"
 	"log"
 	"strconv"
+
+	"gitee.com/quant1x/pkg/fastjson"
 )
 
 func ExampleParser_Parse() {

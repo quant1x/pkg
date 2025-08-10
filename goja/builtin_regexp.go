@@ -2,11 +2,12 @@ package goja
 
 import (
 	"fmt"
-	"gitee.com/quant1x/pkg/goja/parser"
 	"regexp"
 	"strings"
 	"unicode/utf16"
 	"unicode/utf8"
+
+	"gitee.com/quant1x/pkg/goja/parser"
 )
 
 func (r *Runtime) newRegexpObject(proto *Object) *regexpObject {

@@ -2,6 +2,7 @@ package fastjson_test
 
 import (
 	"fmt"
+
 	"gitee.com/quant1x/pkg/fastjson"
 )
 

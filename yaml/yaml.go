@@ -23,12 +23,13 @@ package yaml
 import (
 	"errors"
 	"fmt"
-	"gitee.com/quant1x/pkg/defaults"
 	"io"
 	"reflect"
 	"strings"
 	"sync"
 	"unicode/utf8"
+
+	"gitee.com/quant1x/pkg/defaults"
 )
 
 // The Unmarshaler interface may be implemented by types to customize their

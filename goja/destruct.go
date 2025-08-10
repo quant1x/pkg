@@ -1,8 +1,9 @@
 package goja
 
 import (
-	"gitee.com/quant1x/pkg/goja/unistring"
 	"reflect"
+
+	"gitee.com/quant1x/pkg/goja/unistring"
 )
 
 type destructKeyedSource struct {

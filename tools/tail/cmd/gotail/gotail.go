@@ -7,9 +7,10 @@ package main
 import (
 	"flag"
 	"fmt"
-	"gitee.com/quant1x/pkg/tools/tail"
 	"io"
 	"os"
+
+	"gitee.com/quant1x/pkg/tools/tail"
 )
 
 func args2config() (tail.Config, int64) {

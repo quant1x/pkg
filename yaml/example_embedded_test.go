@@ -17,8 +17,9 @@ package yaml_test
 
 import (
 	"fmt"
-	"gitee.com/quant1x/pkg/yaml"
 	"log"
+
+	"gitee.com/quant1x/pkg/yaml"
 )
 
 // An example showing how to unmarshal embedded

@@ -2,10 +2,11 @@ package fastjson
 
 import (
 	"fmt"
-	"gitee.com/quant1x/pkg/fastjson/fastfloat"
 	"strconv"
 	"strings"
 	"unicode/utf16"
+
+	"gitee.com/quant1x/pkg/fastjson/fastfloat"
 )
 
 // Parser parses JSON.

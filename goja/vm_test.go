@@ -1,10 +1,11 @@
 package goja
 
 import (
+	"testing"
+
 	"gitee.com/quant1x/pkg/goja/file"
 	"gitee.com/quant1x/pkg/goja/parser"
 	"gitee.com/quant1x/pkg/goja/unistring"
-	"testing"
 )
 
 func TestTaggedTemplateArgExport(t *testing.T) {

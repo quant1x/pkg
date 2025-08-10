@@ -19,12 +19,13 @@ import (
 	"bytes"
 	"errors"
 	"fmt"
-	"gitee.com/quant1x/pkg/yaml"
 	"io"
 	"math"
 	"reflect"
 	"strings"
 	"time"
+
+	"gitee.com/quant1x/pkg/yaml"
 
 	. "gopkg.in/check.v1"
 )

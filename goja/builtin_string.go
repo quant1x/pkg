@@ -1,12 +1,13 @@
 package goja
 
 import (
-	"gitee.com/quant1x/pkg/goja/unistring"
 	"math"
 	"strings"
 	"sync"
 	"unicode/utf16"
 	"unicode/utf8"
+
+	"gitee.com/quant1x/pkg/goja/unistring"
 
 	"gitee.com/quant1x/pkg/goja/parser"
 	"golang.org/x/text/collate"
