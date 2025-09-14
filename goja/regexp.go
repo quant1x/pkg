@@ -8,8 +8,8 @@ import (
 	"strings"
 	"unicode/utf16"
 
-	"gitee.com/quant1x/pkg/goja/unistring"
 	"github.com/dlclark/regexp2"
+	"github.com/quant1x/pkg/goja/unistring"
 )
 
 type regexp2MatchCache struct {

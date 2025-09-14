@@ -6,7 +6,7 @@ import (
 	"reflect"
 	"sort"
 
-	"gitee.com/quant1x/pkg/goja/unistring"
+	"github.com/quant1x/pkg/goja/unistring"
 )
 
 const (

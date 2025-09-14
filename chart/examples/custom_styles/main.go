@@ -5,8 +5,8 @@ package main
 import (
 	"os"
 
-	"gitee.com/quant1x/pkg/chart"
-	"gitee.com/quant1x/pkg/chart/drawing"
+	"github.com/quant1x/pkg/chart"
+	"github.com/quant1x/pkg/chart/drawing"
 )
 
 func main() {

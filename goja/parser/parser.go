@@ -2,7 +2,7 @@
 Package parser implements a parser for JavaScript.
 
 	import (
-	    "gitee.com/quant1x/pkg/goja/parser"
+	    "github.com/quant1x/pkg/goja/parser"
 	)
 
 Parse and return an AST
@@ -38,10 +38,10 @@ import (
 	"io"
 	"os"
 
-	"gitee.com/quant1x/pkg/goja/ast"
-	"gitee.com/quant1x/pkg/goja/file"
-	"gitee.com/quant1x/pkg/goja/token"
-	"gitee.com/quant1x/pkg/goja/unistring"
+	"github.com/quant1x/pkg/goja/ast"
+	"github.com/quant1x/pkg/goja/file"
+	"github.com/quant1x/pkg/goja/token"
+	"github.com/quant1x/pkg/goja/unistring"
 )
 
 // A Mode value is a set of flags (or 0). They control optional parser functionality.

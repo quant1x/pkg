@@ -17,8 +17,8 @@ import (
 	"testing"
 	"time"
 
-	"gitee.com/quant1x/pkg/tools/tail/ratelimiter"
-	"gitee.com/quant1x/pkg/tools/tail/watch"
+	"github.com/quant1x/pkg/tools/tail/ratelimiter"
+	"github.com/quant1x/pkg/tools/tail/watch"
 )
 
 func TestTailFile(t *testing.T) {

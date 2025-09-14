@@ -4,7 +4,7 @@ import (
 	"strings"
 	"testing"
 
-	"gitee.com/quant1x/pkg/yaml"
+	"github.com/quant1x/pkg/yaml"
 
 	. "gopkg.in/check.v1"
 )

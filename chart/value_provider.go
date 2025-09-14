@@ -1,6 +1,6 @@
 package chart
 
-import "gitee.com/quant1x/pkg/chart/drawing"
+import "github.com/quant1x/pkg/chart/drawing"
 
 // ValuesProvider is a type that produces values.
 type ValuesProvider interface {

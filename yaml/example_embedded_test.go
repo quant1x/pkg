@@ -19,7 +19,7 @@ import (
 	"fmt"
 	"log"
 
-	"gitee.com/quant1x/pkg/yaml"
+	"github.com/quant1x/pkg/yaml"
 )
 
 // An example showing how to unmarshal embedded

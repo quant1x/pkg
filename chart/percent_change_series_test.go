@@ -3,7 +3,7 @@ package chart
 import (
 	"testing"
 
-	"gitee.com/quant1x/pkg/chart/testutil"
+	"github.com/quant1x/pkg/chart/testutil"
 )
 
 func TestPercentageDifferenceSeries(t *testing.T) {

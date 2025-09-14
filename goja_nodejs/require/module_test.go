@@ -10,7 +10,7 @@ import (
 	"path"
 	"testing"
 
-	js "gitee.com/quant1x/pkg/goja"
+	js "github.com/quant1x/pkg/goja"
 )
 
 func mapFileSystemSourceLoader(files map[string]string, t *testing.T) SourceLoader {

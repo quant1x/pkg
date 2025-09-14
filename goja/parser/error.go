@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"sort"
 
-	"gitee.com/quant1x/pkg/goja/file"
-	"gitee.com/quant1x/pkg/goja/token"
+	"github.com/quant1x/pkg/goja/file"
+	"github.com/quant1x/pkg/goja/token"
 )
 
 const (

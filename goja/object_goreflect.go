@@ -6,8 +6,8 @@ import (
 	"reflect"
 	"strings"
 
-	"gitee.com/quant1x/pkg/goja/parser"
-	"gitee.com/quant1x/pkg/goja/unistring"
+	"github.com/quant1x/pkg/goja/parser"
+	"github.com/quant1x/pkg/goja/unistring"
 )
 
 // JsonEncodable allows custom JSON encoding by JSON.stringify()

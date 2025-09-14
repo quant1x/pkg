@@ -6,7 +6,7 @@ import (
 	"io"
 	"math"
 
-	"gitee.com/quant1x/pkg/freetype/truetype"
+	"github.com/quant1x/pkg/freetype/truetype"
 )
 
 // BarChart is a chart that draws bars on a range.

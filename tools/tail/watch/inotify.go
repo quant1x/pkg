@@ -9,7 +9,7 @@ import (
 	"os"
 	"path/filepath"
 
-	"gitee.com/quant1x/pkg/tools/tail/util"
+	"github.com/quant1x/pkg/tools/tail/util"
 
 	"github.com/fsnotify/fsnotify"
 	"gopkg.in/tomb.v1"

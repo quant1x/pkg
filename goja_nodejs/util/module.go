@@ -3,8 +3,8 @@ package util
 import (
 	"bytes"
 
-	"gitee.com/quant1x/pkg/goja"
-	"gitee.com/quant1x/pkg/goja_nodejs/require"
+	"github.com/quant1x/pkg/goja"
+	"github.com/quant1x/pkg/goja_nodejs/require"
 )
 
 type Util struct {

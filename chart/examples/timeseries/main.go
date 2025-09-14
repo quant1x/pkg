@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"time"
 
-	chart "gitee.com/quant1x/pkg/chart"
+	chart "github.com/quant1x/pkg/chart"
 )
 
 func drawChart(res http.ResponseWriter, req *http.Request) {

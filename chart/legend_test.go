@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"gitee.com/quant1x/pkg/chart/testutil"
+	"github.com/quant1x/pkg/chart/testutil"
 )
 
 func TestLegend(t *testing.T) {

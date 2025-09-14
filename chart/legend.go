@@ -1,7 +1,7 @@
 package chart
 
 import (
-	"gitee.com/quant1x/pkg/chart/drawing"
+	"github.com/quant1x/pkg/chart/drawing"
 )
 
 // Legend returns a legend renderable function.

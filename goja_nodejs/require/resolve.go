@@ -6,7 +6,7 @@ import (
 	"path"
 	"strings"
 
-	js "gitee.com/quant1x/pkg/goja"
+	js "github.com/quant1x/pkg/goja"
 )
 
 // NodeJS module search algorithm described by

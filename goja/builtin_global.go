@@ -10,7 +10,7 @@ import (
 	"sync"
 	"unicode/utf8"
 
-	"gitee.com/quant1x/pkg/goja/unistring"
+	"github.com/quant1x/pkg/goja/unistring"
 )
 
 const hexUpper = "0123456789ABCDEF"

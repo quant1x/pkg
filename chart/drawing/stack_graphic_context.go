@@ -4,7 +4,7 @@ import (
 	"image"
 	"image/color"
 
-	"gitee.com/quant1x/pkg/freetype/truetype"
+	"github.com/quant1x/pkg/freetype/truetype"
 )
 
 // StackGraphicContext is a context that does thngs.

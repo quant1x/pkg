@@ -9,7 +9,7 @@ import (
 	"testing"
 	"time"
 
-	"gitee.com/quant1x/pkg/defaults/internal/fixture"
+	"github.com/quant1x/pkg/defaults/internal/fixture"
 )
 
 type (

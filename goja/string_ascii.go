@@ -8,7 +8,7 @@ import (
 	"strconv"
 	"strings"
 
-	"gitee.com/quant1x/pkg/goja/unistring"
+	"github.com/quant1x/pkg/goja/unistring"
 )
 
 type asciiString string

@@ -3,8 +3,8 @@ package chart
 import (
 	"sync"
 
-	"gitee.com/quant1x/pkg/chart/roboto"
-	"gitee.com/quant1x/pkg/freetype/truetype"
+	"github.com/quant1x/pkg/chart/roboto"
+	"github.com/quant1x/pkg/freetype/truetype"
 )
 
 var (

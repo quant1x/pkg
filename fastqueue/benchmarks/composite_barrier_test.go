@@ -3,7 +3,7 @@ package benchmarks
 import (
 	"testing"
 
-	"gitee.com/quant1x/pkg/fastqueue"
+	"github.com/quant1x/pkg/fastqueue"
 )
 
 func BenchmarkCompositeBarrierRead(b *testing.B) {

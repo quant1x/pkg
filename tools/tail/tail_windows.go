@@ -7,7 +7,7 @@ package tail
 import (
 	"os"
 
-	"gitee.com/quant1x/pkg/tools/tail/winfile"
+	"github.com/quant1x/pkg/tools/tail/winfile"
 )
 
 // Deprecated: this function is only useful internally and, as such,

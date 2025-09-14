@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"gitee.com/quant1x/pkg/goja/parser"
+	"github.com/quant1x/pkg/goja/parser"
 )
 
 func TestGlobalObjectProto(t *testing.T) {

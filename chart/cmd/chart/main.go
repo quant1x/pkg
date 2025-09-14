@@ -7,7 +7,7 @@ import (
 	"os"
 	"strings"
 
-	"gitee.com/quant1x/pkg/chart"
+	"github.com/quant1x/pkg/chart"
 )
 
 var (
