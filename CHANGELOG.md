@@ -3,9 +3,14 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.8.1] - 2025-09-14
+### Changed
+- 调整gitee为github
+
 ## [0.8.0] - 2025-09-14
 ### Changed
 - 将pkg改为github仓库
+- update changelog
 
 ## [0.7.0] - 2025-08-14
 ### Changed
@@ -227,7 +232,8 @@ Signed-off-by: 王布衣 <wangfengxy@sina.cn>
 - 更新依赖库
 
 
-[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.8.0...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.8.1...HEAD
+[0.8.1]: https://gitee.com/quant1x/pkg.git/compare/v0.8.0...v0.8.1
 [0.8.0]: https://gitee.com/quant1x/pkg.git/compare/v0.7.0...v0.8.0
 [0.7.0]: https://gitee.com/quant1x/pkg.git/compare/v0.6.0...v0.7.0
 [0.6.0]: https://gitee.com/quant1x/pkg.git/compare/v0.5.2...v0.6.0
