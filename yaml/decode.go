@@ -25,7 +25,7 @@ import (
 	"strconv"
 	"time"
 
-	"github.com/quant1x/pkg/defaults"
+	"gitee.com/quant1x/pkg/defaults"
 )
 
 // ----------------------------------------------------------------------------

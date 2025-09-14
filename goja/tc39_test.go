@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/quant1x/pkg/yaml"
+	"gitee.com/quant1x/pkg/yaml"
 )
 
 const (

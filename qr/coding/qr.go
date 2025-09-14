@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/quant1x/pkg/qr/gf256"
+	"gitee.com/quant1x/pkg/qr/gf256"
 )
 
 // Field is the field for QR error correction.

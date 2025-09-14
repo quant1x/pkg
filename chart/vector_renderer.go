@@ -9,8 +9,8 @@ import (
 
 	"golang.org/x/image/font"
 
-	"github.com/quant1x/pkg/chart/drawing"
-	"github.com/quant1x/pkg/freetype/truetype"
+	"gitee.com/quant1x/pkg/chart/drawing"
+	"gitee.com/quant1x/pkg/freetype/truetype"
 )
 
 // SVG returns a new png/raster renderer.

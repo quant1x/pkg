@@ -6,8 +6,8 @@ import (
 	"io"
 	"math"
 
-	"github.com/quant1x/pkg/chart/drawing"
-	"github.com/quant1x/pkg/freetype/truetype"
+	"gitee.com/quant1x/pkg/chart/drawing"
+	"gitee.com/quant1x/pkg/freetype/truetype"
 )
 
 // PNG returns a new png/raster renderer.

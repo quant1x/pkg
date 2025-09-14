@@ -5,7 +5,7 @@ import (
 	"log"
 	"strconv"
 
-	"github.com/quant1x/pkg/fastjson"
+	"gitee.com/quant1x/pkg/fastjson"
 )
 
 func ExampleParser_Parse() {

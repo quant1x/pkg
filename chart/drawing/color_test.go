@@ -5,7 +5,7 @@ import (
 
 	"image/color"
 
-	"github.com/quant1x/pkg/chart/testutil"
+	"gitee.com/quant1x/pkg/chart/testutil"
 )
 
 func TestColorFromHex(t *testing.T) {

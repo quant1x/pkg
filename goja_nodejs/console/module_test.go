@@ -3,8 +3,8 @@ package console
 import (
 	"testing"
 
-	"github.com/quant1x/pkg/goja"
-	"github.com/quant1x/pkg/goja_nodejs/require"
+	"gitee.com/quant1x/pkg/goja"
+	"gitee.com/quant1x/pkg/goja_nodejs/require"
 )
 
 func TestConsole(t *testing.T) {

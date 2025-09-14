@@ -6,7 +6,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/quant1x/pkg/chart/testutil"
+	"gitee.com/quant1x/pkg/chart/testutil"
 )
 
 func TestTimeValueFormatterWithFormat(t *testing.T) {

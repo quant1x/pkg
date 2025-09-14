@@ -1,7 +1,7 @@
 package drawing
 
 import (
-	"github.com/quant1x/pkg/freetype/raster"
+	"gitee.com/quant1x/pkg/freetype/raster"
 	"golang.org/x/image/math/fixed"
 )
 

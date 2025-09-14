@@ -3,7 +3,7 @@ package chart
 import (
 	"testing"
 
-	"github.com/quant1x/pkg/chart/testutil"
+	"gitee.com/quant1x/pkg/chart/testutil"
 )
 
 func TestSplitCSV(t *testing.T) {

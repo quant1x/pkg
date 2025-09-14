@@ -6,7 +6,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/quant1x/pkg/goja"
+	"gitee.com/quant1x/pkg/goja"
 )
 
 func TestRun(t *testing.T) {

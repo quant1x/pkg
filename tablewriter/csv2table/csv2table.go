@@ -8,7 +8,7 @@ import (
 	"os"
 	"unicode/utf8"
 
-	"github.com/quant1x/pkg/tablewriter"
+	"gitee.com/quant1x/pkg/tablewriter"
 )
 
 var (

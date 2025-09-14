@@ -21,9 +21,9 @@ import (
 	"sync"
 	"time"
 
-	"github.com/quant1x/pkg/tools/tail/ratelimiter"
-	"github.com/quant1x/pkg/tools/tail/util"
-	"github.com/quant1x/pkg/tools/tail/watch"
+	"gitee.com/quant1x/pkg/tools/tail/ratelimiter"
+	"gitee.com/quant1x/pkg/tools/tail/util"
+	"gitee.com/quant1x/pkg/tools/tail/watch"
 	"gopkg.in/tomb.v1"
 )
 

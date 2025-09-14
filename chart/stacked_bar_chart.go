@@ -6,7 +6,7 @@ import (
 	"io"
 	"math"
 
-	"github.com/quant1x/pkg/freetype/truetype"
+	"gitee.com/quant1x/pkg/freetype/truetype"
 )
 
 // StackedBar is a bar within a StackedBarChart.

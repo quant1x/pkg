@@ -7,7 +7,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/quant1x/pkg/tools/tail"
+	"gitee.com/quant1x/pkg/tools/tail"
 )
 
 var logFile = "/var/log/syslog"

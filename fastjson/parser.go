@@ -6,7 +6,7 @@ import (
 	"strings"
 	"unicode/utf16"
 
-	"github.com/quant1x/pkg/fastjson/fastfloat"
+	"gitee.com/quant1x/pkg/fastjson/fastfloat"
 )
 
 // Parser parses JSON.

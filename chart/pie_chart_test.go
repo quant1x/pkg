@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/quant1x/pkg/chart/testutil"
+	"gitee.com/quant1x/pkg/chart/testutil"
 )
 
 func TestPieChart(t *testing.T) {

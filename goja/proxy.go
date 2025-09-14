@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/quant1x/pkg/goja/unistring"
+	"gitee.com/quant1x/pkg/goja/unistring"
 )
 
 // Proxy is a Go wrapper around ECMAScript Proxy. Calling Runtime.ToValue() on it

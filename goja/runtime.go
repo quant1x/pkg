@@ -16,10 +16,10 @@ import (
 
 	"golang.org/x/text/collate"
 
-	js_ast "github.com/quant1x/pkg/goja/ast"
-	"github.com/quant1x/pkg/goja/file"
-	"github.com/quant1x/pkg/goja/parser"
-	"github.com/quant1x/pkg/goja/unistring"
+	js_ast "gitee.com/quant1x/pkg/goja/ast"
+	"gitee.com/quant1x/pkg/goja/file"
+	"gitee.com/quant1x/pkg/goja/parser"
+	"gitee.com/quant1x/pkg/goja/unistring"
 )
 
 const (

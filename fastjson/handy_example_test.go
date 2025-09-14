@@ -3,7 +3,7 @@ package fastjson_test
 import (
 	"fmt"
 
-	"github.com/quant1x/pkg/fastjson"
+	"gitee.com/quant1x/pkg/fastjson"
 )
 
 func ExampleGetString() {

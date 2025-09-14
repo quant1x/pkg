@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/quant1x/pkg/freetype/truetype"
+	"gitee.com/quant1x/pkg/freetype/truetype"
 )
 
 // DonutChart is a chart that draws sections of a circle based on percentages with an hole.

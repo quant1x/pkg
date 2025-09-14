@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/quant1x/pkg/yaml"
+	"gitee.com/quant1x/pkg/yaml"
 
 	"io"
 	"strings"

@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/quant1x/pkg/chart"
+	"gitee.com/quant1x/pkg/chart"
 )
 
 // Note: Additional examples on how to add Stylesheets are in the custom_stylesheets example

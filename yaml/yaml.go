@@ -29,7 +29,7 @@ import (
 	"sync"
 	"unicode/utf8"
 
-	"github.com/quant1x/pkg/defaults"
+	"gitee.com/quant1x/pkg/defaults"
 )
 
 // The Unmarshaler interface may be implemented by types to customize their

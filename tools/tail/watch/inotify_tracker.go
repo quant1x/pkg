@@ -11,7 +11,7 @@ import (
 	"sync"
 	"syscall"
 
-	"github.com/quant1x/pkg/tools/tail/util"
+	"gitee.com/quant1x/pkg/tools/tail/util"
 
 	"github.com/fsnotify/fsnotify"
 )

@@ -7,7 +7,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/quant1x/pkg/chart"
+	"gitee.com/quant1x/pkg/chart"
 )
 
 func main() {

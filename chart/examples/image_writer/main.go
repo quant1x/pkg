@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/quant1x/pkg/chart"
+	"gitee.com/quant1x/pkg/chart"
 )
 
 func main() {

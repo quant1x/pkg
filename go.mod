@@ -1,4 +1,4 @@
-module github.com/quant1x/pkg
+module gitee.com/quant1x/pkg
 
 go 1.25
 

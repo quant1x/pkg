@@ -7,7 +7,7 @@ import (
 	"unicode/utf16"
 	"unicode/utf8"
 
-	"github.com/quant1x/pkg/goja/parser"
+	"gitee.com/quant1x/pkg/goja/parser"
 )
 
 func (r *Runtime) newRegexpObject(proto *Object) *regexpObject {

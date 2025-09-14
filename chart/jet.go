@@ -1,6 +1,6 @@
 package chart
 
-import "github.com/quant1x/pkg/chart/drawing"
+import "gitee.com/quant1x/pkg/chart/drawing"
 
 // Jet is a color map provider based on matlab's jet color map.
 func Jet(v, vmin, vmax float64) drawing.Color {

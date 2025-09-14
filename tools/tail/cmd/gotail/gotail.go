@@ -10,7 +10,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/quant1x/pkg/tools/tail"
+	"gitee.com/quant1x/pkg/tools/tail"
 )
 
 func args2config() (tail.Config, int64) {

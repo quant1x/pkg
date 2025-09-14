@@ -4,7 +4,7 @@ import (
 	"io"
 	"strings"
 
-	"github.com/quant1x/pkg/qr"
+	"gitee.com/quant1x/pkg/qr"
 )
 
 const WHITE = "\033[47m  \033[0m"

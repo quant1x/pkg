@@ -4,11 +4,11 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/quant1x/pkg/goja/token"
+	"gitee.com/quant1x/pkg/goja/token"
 
-	"github.com/quant1x/pkg/goja/ast"
-	"github.com/quant1x/pkg/goja/file"
-	"github.com/quant1x/pkg/goja/unistring"
+	"gitee.com/quant1x/pkg/goja/ast"
+	"gitee.com/quant1x/pkg/goja/file"
+	"gitee.com/quant1x/pkg/goja/unistring"
 )
 
 type blockType int

@@ -3,7 +3,7 @@ package benchmarks
 import (
 	"testing"
 
-	"github.com/quant1x/pkg/fastqueue"
+	"gitee.com/quant1x/pkg/fastqueue"
 )
 
 func BenchmarkCursorStore(b *testing.B) {

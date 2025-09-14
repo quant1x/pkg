@@ -4,7 +4,7 @@ import (
 	"image"
 	"image/color"
 
-	"github.com/quant1x/pkg/freetype/truetype"
+	"gitee.com/quant1x/pkg/freetype/truetype"
 )
 
 // GraphicContext describes the interface for the various backends (images, pdf, opengl, ...)

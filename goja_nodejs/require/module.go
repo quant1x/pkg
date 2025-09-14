@@ -10,8 +10,8 @@ import (
 	"syscall"
 	"text/template"
 
-	js "github.com/quant1x/pkg/goja"
-	"github.com/quant1x/pkg/goja/parser"
+	js "gitee.com/quant1x/pkg/goja"
+	"gitee.com/quant1x/pkg/goja/parser"
 )
 
 type ModuleLoader func(*js.Runtime, *js.Object)

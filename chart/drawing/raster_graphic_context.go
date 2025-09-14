@@ -6,8 +6,8 @@ import (
 	"image/color"
 	"math"
 
-	"github.com/quant1x/pkg/freetype/raster"
-	"github.com/quant1x/pkg/freetype/truetype"
+	"gitee.com/quant1x/pkg/freetype/raster"
+	"gitee.com/quant1x/pkg/freetype/truetype"
 	"golang.org/x/image/draw"
 	"golang.org/x/image/font"
 	"golang.org/x/image/math/fixed"

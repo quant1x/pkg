@@ -12,7 +12,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/quant1x/pkg/runewidth"
+	"gitee.com/quant1x/pkg/runewidth"
 )
 
 const (

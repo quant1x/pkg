@@ -12,7 +12,7 @@ import (
 	"unicode/utf16"
 	"unicode/utf8"
 
-	"github.com/quant1x/pkg/goja/unistring"
+	"gitee.com/quant1x/pkg/goja/unistring"
 )
 
 const hex = "0123456789abcdef"

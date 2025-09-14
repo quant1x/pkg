@@ -13,7 +13,7 @@
 // the Freetype "smooth" module, and the Anti-Grain Geometry library. A
 // description of the area/coverage algorithm is at
 // http://projects.tuxee.net/cl-vectors/section-the-cl-aa-algorithm
-package raster // import "github.com/quant1x/pkg/freetype/raster"
+package raster // import "gitee.com/quant1x/pkg/freetype/raster"
 
 import (
 	"strconv"

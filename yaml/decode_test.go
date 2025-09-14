@@ -25,7 +25,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/quant1x/pkg/yaml"
+	"gitee.com/quant1x/pkg/yaml"
 
 	. "gopkg.in/check.v1"
 )

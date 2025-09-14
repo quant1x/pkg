@@ -14,7 +14,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/quant1x/pkg/runewidth"
+	"gitee.com/quant1x/pkg/runewidth"
 )
 
 var text = "The quick brown fox jumps over the lazy dog."

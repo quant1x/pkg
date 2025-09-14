@@ -3,7 +3,7 @@ package drawing
 import (
 	"testing"
 
-	"github.com/quant1x/pkg/chart/testutil"
+	"gitee.com/quant1x/pkg/chart/testutil"
 )
 
 type point struct {

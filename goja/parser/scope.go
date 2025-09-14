@@ -1,8 +1,8 @@
 package parser
 
 import (
-	"github.com/quant1x/pkg/goja/ast"
-	"github.com/quant1x/pkg/goja/unistring"
+	"gitee.com/quant1x/pkg/goja/ast"
+	"gitee.com/quant1x/pkg/goja/unistring"
 )
 
 type _scope struct {
