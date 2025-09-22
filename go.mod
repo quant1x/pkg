@@ -6,7 +6,7 @@ require (
 	github.com/dlclark/regexp2 v1.11.5
 	github.com/fsnotify/fsnotify v1.9.0
 	github.com/go-sourcemap/sourcemap v2.1.4+incompatible
-	github.com/google/pprof v0.0.0-20250903194437-c28834ac2320
+	github.com/google/pprof v0.0.0-20250919162441-8b542baf5bcf
 	github.com/rivo/uniseg v0.4.7
 	github.com/stretchr/testify v1.11.1
 	golang.org/x/image v0.31.0
