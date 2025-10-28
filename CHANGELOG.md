@@ -3,9 +3,10 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
-## [0.8.4] - 2025-10-28
+## [0.9.0] - 2025-10-28
 ### Changed
 - 删除废弃的goja
+- update changelog
 
 ## [0.8.3] - 2025-09-22
 ### Changed
@@ -247,8 +248,8 @@ Signed-off-by: 王布衣 <wangfengxy@sina.cn>
 - 更新依赖库
 
 
-[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.8.4...HEAD
-[0.8.4]: https://gitee.com/quant1x/pkg.git/compare/v0.8.3...v0.8.4
+[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.9.0...HEAD
+[0.9.0]: https://gitee.com/quant1x/pkg.git/compare/v0.8.3...v0.9.0
 [0.8.3]: https://gitee.com/quant1x/pkg.git/compare/v0.8.2...v0.8.3
 [0.8.2]: https://gitee.com/quant1x/pkg.git/compare/v0.8.1...v0.8.2
 [0.8.1]: https://gitee.com/quant1x/pkg.git/compare/v0.8.0...v0.8.1
