@@ -3,7 +3,7 @@ package drawing
 import (
 	"image/color"
 
-	"gitee.com/quant1x/pkg/freetype/truetype"
+	"github.com/quant1x/pkg/freetype/truetype"
 )
 
 // FillRule defines the type for fill rules

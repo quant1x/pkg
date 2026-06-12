@@ -3,7 +3,7 @@ package matrix
 import (
 	"testing"
 
-	"gitee.com/quant1x/pkg/chart/testutil"
+	"github.com/quant1x/pkg/chart/testutil"
 )
 
 func TestNew(t *testing.T) {

@@ -5,7 +5,7 @@ import (
 	"math"
 	"testing"
 
-	"gitee.com/quant1x/pkg/chart/testutil"
+	"github.com/quant1x/pkg/chart/testutil"
 )
 
 func TestBollingerBandSeries(t *testing.T) {

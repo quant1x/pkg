@@ -3,9 +3,9 @@ package chart
 import (
 	"testing"
 
-	"gitee.com/quant1x/pkg/chart/drawing"
-	"gitee.com/quant1x/pkg/chart/testutil"
-	"gitee.com/quant1x/pkg/freetype/truetype"
+	"github.com/quant1x/pkg/chart/drawing"
+	"github.com/quant1x/pkg/chart/testutil"
+	"github.com/quant1x/pkg/freetype/truetype"
 )
 
 func TestStyleIsZero(t *testing.T) {

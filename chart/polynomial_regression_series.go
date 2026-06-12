@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"math"
 
-	"gitee.com/quant1x/pkg/chart/matrix"
+	"github.com/quant1x/pkg/chart/matrix"
 )
 
 // Interface Assertions.

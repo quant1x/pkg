@@ -5,8 +5,8 @@ import (
 
 	"golang.org/x/image/math/fixed"
 
-	"gitee.com/quant1x/pkg/freetype/raster"
-	"gitee.com/quant1x/pkg/freetype/truetype"
+	"github.com/quant1x/pkg/freetype/raster"
+	"github.com/quant1x/pkg/freetype/truetype"
 )
 
 // PixelsToPoints returns the points for a given number of pixels at a DPI.

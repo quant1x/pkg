@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"gitee.com/quant1x/pkg/fastqueue"
+	"github.com/quant1x/pkg/fastqueue"
 )
 
 func main() {

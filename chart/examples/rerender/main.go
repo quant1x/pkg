@@ -6,7 +6,7 @@ import (
 	"sync"
 	"time"
 
-	"gitee.com/quant1x/pkg/chart"
+	"github.com/quant1x/pkg/chart"
 )
 
 var lock sync.Mutex

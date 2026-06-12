@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"time"
 
-	"gitee.com/quant1x/pkg/chart"
+	"github.com/quant1x/pkg/chart"
 )
 
 func main() {

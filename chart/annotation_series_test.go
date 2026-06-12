@@ -4,8 +4,8 @@ import (
 	"image/color"
 	"testing"
 
-	"gitee.com/quant1x/pkg/chart/drawing"
-	"gitee.com/quant1x/pkg/chart/testutil"
+	"github.com/quant1x/pkg/chart/drawing"
+	"github.com/quant1x/pkg/chart/testutil"
 )
 
 func TestAnnotationSeriesMeasure(t *testing.T) {

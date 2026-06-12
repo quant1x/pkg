@@ -9,7 +9,7 @@ import (
 	"runtime"
 	"time"
 
-	"gitee.com/quant1x/pkg/tools/tail/util"
+	"github.com/quant1x/pkg/tools/tail/util"
 	"gopkg.in/tomb.v1"
 )
 

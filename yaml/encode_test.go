@@ -23,7 +23,7 @@ import (
 	"strings"
 	"time"
 
-	"gitee.com/quant1x/pkg/yaml"
+	"github.com/quant1x/pkg/yaml"
 
 	"net"
 	"os"

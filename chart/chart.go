@@ -6,7 +6,7 @@ import (
 	"io"
 	"math"
 
-	"gitee.com/quant1x/pkg/freetype/truetype"
+	"github.com/quant1x/pkg/freetype/truetype"
 )
 
 // Chart is what we're drawing.

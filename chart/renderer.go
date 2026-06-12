@@ -3,8 +3,8 @@ package chart
 import (
 	"io"
 
-	"gitee.com/quant1x/pkg/chart/drawing"
-	"gitee.com/quant1x/pkg/freetype/truetype"
+	"github.com/quant1x/pkg/chart/drawing"
+	"github.com/quant1x/pkg/freetype/truetype"
 )
 
 // Renderer represents the basic methods required to draw a chart.

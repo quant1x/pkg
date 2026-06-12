@@ -3,8 +3,8 @@ package chart
 import (
 	"testing"
 
-	"gitee.com/quant1x/pkg/chart/matrix"
-	"gitee.com/quant1x/pkg/chart/testutil"
+	"github.com/quant1x/pkg/chart/matrix"
+	"github.com/quant1x/pkg/chart/testutil"
 )
 
 func TestPolynomialRegression(t *testing.T) {

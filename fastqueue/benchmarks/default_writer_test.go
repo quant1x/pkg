@@ -5,7 +5,7 @@ import (
 	"math"
 	"testing"
 
-	"gitee.com/quant1x/pkg/fastqueue"
+	"github.com/quant1x/pkg/fastqueue"
 )
 
 func BenchmarkWriterReserve(b *testing.B) {

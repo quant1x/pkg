@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"gitee.com/quant1x/pkg/chart"
+	"github.com/quant1x/pkg/chart"
 )
 
 const style = "svg .background { fill: white; }" +

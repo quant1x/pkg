@@ -12,7 +12,7 @@ import (
 	"image"
 	"image/color"
 
-	"gitee.com/quant1x/pkg/qr/coding"
+	"github.com/quant1x/pkg/qr/coding"
 )
 
 // A Level denotes a QR error correction level.

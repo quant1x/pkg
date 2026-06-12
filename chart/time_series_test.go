@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"gitee.com/quant1x/pkg/chart/testutil"
+	"github.com/quant1x/pkg/chart/testutil"
 )
 
 func TestTimeSeriesGetValue(t *testing.T) {

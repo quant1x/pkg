@@ -6,8 +6,8 @@ import (
 
 	_ "net/http/pprof"
 
-	"gitee.com/quant1x/pkg/chart"
-	"gitee.com/quant1x/pkg/chart/drawing"
+	"github.com/quant1x/pkg/chart"
+	"github.com/quant1x/pkg/chart/drawing"
 )
 
 func drawChart(res http.ResponseWriter, req *http.Request) {

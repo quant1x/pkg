@@ -1,6 +1,6 @@
-module gitee.com/quant1x/pkg
+module github.com/quant1x/pkg
 
-go 1.25
+go 1.26
 
 require (
 	github.com/fsnotify/fsnotify v1.9.0

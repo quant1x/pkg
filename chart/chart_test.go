@@ -8,8 +8,8 @@ import (
 	"testing"
 	"time"
 
-	"gitee.com/quant1x/pkg/chart/drawing"
-	"gitee.com/quant1x/pkg/chart/testutil"
+	"github.com/quant1x/pkg/chart/drawing"
+	"github.com/quant1x/pkg/chart/testutil"
 )
 
 func TestChartGetDPI(t *testing.T) {

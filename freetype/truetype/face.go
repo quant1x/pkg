@@ -9,7 +9,7 @@ import (
 	"image"
 	"math"
 
-	"gitee.com/quant1x/pkg/freetype/raster"
+	"github.com/quant1x/pkg/freetype/raster"
 	"golang.org/x/image/font"
 	"golang.org/x/image/math/fixed"
 )

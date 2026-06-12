@@ -1,6 +1,6 @@
 package chart
 
-import "gitee.com/quant1x/pkg/chart/drawing"
+import "github.com/quant1x/pkg/chart/drawing"
 
 var (
 	// ColorWhite is white.

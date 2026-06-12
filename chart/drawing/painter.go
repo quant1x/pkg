@@ -7,7 +7,7 @@ import (
 	"golang.org/x/image/draw"
 	"golang.org/x/image/math/f64"
 
-	"gitee.com/quant1x/pkg/freetype/raster"
+	"github.com/quant1x/pkg/freetype/raster"
 )
 
 // Painter implements the freetype raster.Painter and has a SetColor method like the RGBAPainter

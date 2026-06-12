@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"io"
 
-	"gitee.com/quant1x/pkg/freetype/truetype"
+	"github.com/quant1x/pkg/freetype/truetype"
 )
 
 // PieChart is a chart that draws sections of a circle based on percentages.

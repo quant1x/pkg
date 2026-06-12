@@ -12,7 +12,7 @@ import (
 	"os"
 	"strconv"
 
-	"gitee.com/quant1x/pkg/tools/tail"
+	"github.com/quant1x/pkg/tools/tail"
 )
 
 type jsonStruct struct {

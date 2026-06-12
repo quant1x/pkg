@@ -8,8 +8,8 @@ import (
 	"bytes"
 	"testing"
 
-	"gitee.com/quant1x/pkg/qr/gf256"
-	"gitee.com/quant1x/pkg/qr/libqrencode"
+	"github.com/quant1x/pkg/qr/gf256"
+	"github.com/quant1x/pkg/qr/libqrencode"
 )
 
 func test(t *testing.T, v Version, l Level, text ...Encoding) bool {

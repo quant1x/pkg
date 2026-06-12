@@ -8,7 +8,7 @@ import (
 	"os"
 	"time"
 
-	"gitee.com/quant1x/pkg/chart"
+	"github.com/quant1x/pkg/chart"
 )
 
 func random(min, max float64) float64 {

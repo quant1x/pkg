@@ -1,7 +1,7 @@
 package drawing
 
 import (
-	"gitee.com/quant1x/pkg/freetype/truetype"
+	"github.com/quant1x/pkg/freetype/truetype"
 	"golang.org/x/image/math/fixed"
 )
 
