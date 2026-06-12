@@ -3,9 +3,14 @@ All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
+## [0.10.0] - 2026-06-12
+### Changed
+- 调整库路径
+
 ## [0.9.1] - 2025-10-29
 ### Changed
 - 删除废弃的ini
+- update changelog
 
 ## [0.9.0] - 2025-10-28
 ### Changed
@@ -253,7 +258,8 @@ Signed-off-by: 王布衣 <wangfengxy@sina.cn>
 - 更新依赖库
 
 
-[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.9.1...HEAD
+[Unreleased]: https://gitee.com/quant1x/pkg.git/compare/v0.10.0...HEAD
+[0.10.0]: https://gitee.com/quant1x/pkg.git/compare/v0.9.1...v0.10.0
 [0.9.1]: https://gitee.com/quant1x/pkg.git/compare/v0.9.0...v0.9.1
 [0.9.0]: https://gitee.com/quant1x/pkg.git/compare/v0.8.3...v0.9.0
 [0.8.3]: https://gitee.com/quant1x/pkg.git/compare/v0.8.2...v0.8.3
